@@ -1,0 +1,60 @@
+<! doctype html>
+<head>
+<title>Jugendsommer</title>
+<style type="text/css">
+body {
+    color: black;
+    font-family: Sans-Serif;
+    font-size: 18px;
+}
+table {
+    font-family: Sans-Serif;
+    font-size: 18px;
+    border: 0;
+}
+.warn-text {
+	color: red;
+	font-family: Sans-Serif;
+	font-size: 20px;
+}
+div {
+    box-shadow: 10px 10px 5px #888888;
+    border: 2px solid;
+    border-radius: 25px;
+    margin: 50px;
+    padding: 20px;
+}
+tr:nth-child(even) {
+    background-color: #EEEEEE;
+}
+</style>
+</head>
+<body>
+
+<div><p class='warn-text'>
+	Wegen technischer Schwierigkeiten können auf dieser Seite erst ab 29.03 09:00 die Anmeldungen für alle Sommerprogramme des Jugenddiensts Bozen-Land getätigt werden.</p>
+<br><br>
+Termine Info-Abende:
+<br>
+<table border="1" frame="hsides" rules="rows">
+	<tr><td>Mittelschule Ritten</td><td>Montag, 09.03.2015, 20:00 Uhr</td></tr>
+	<tr><td>Vereinshaus Petersberg</td><td>Dienstag, 10.03.2015, 20:00 Uhr</td></tr>
+	<tr><td>Aula Magna Jenesien</td><td>Dienstag, 10.03.2015, 19:30 Uhr</td></tr>
+	<tr><td>Altersheim Deutschnofen</td><td>Mittwoch, 11.03.2015, 20:00 Uhr</td></tr>
+	<tr><td>Grundschule Steinegg</td><td>Donnerstag, 12.03.2015, 19:00 Uhr</td></tr>
+	<tr><td>Grundschule Unterinn</td><td>Montag, 16.03.2015, 20:00 Uhr</td></tr>
+	<tr><td>Feuerwehrhalle Mölten</td><td>Dienstag, 17.03.2015, 20:00 Uhr</td></tr>
+	<tr><td>Bibliothek Eggen</td><td>Dienstag, 17.03.2015, 20:00 Uhr</td></tr>
+	<tr><td>Mehrzwecksaal Afing</td><td>Mittwoch, 18.03.2015, 20:00 Uhr</td></tr>
+	<tr><td>Zivilschutzzentrum Welschenofen</td><td>Mittwoch, 18.03.2015, 20:00 Uhr</td></tr>
+	<tr><td>Haus der Dorfgemeinschaft Tiers</td><td>Mittowch, 18.03.2015, 20:00 Uhr</td></tr>
+</table>
+<br>
+Bei eventuellen Fragen können sich die Eltern gerne bei den Jugenddienstreferenten telefonisch melden:<br>
+Gernot Psenner: 3405059021 <br>
+Patrik Ennemoser: 3471965973 <br>
+Günther Reichhalter: 3408136941 <br>
+</div>
+
+</body>
+</html>

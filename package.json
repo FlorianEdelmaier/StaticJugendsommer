@@ -1,0 +1,23 @@
+{
+  "name": "StaticJugendsommerHtml",
+  "version": "0.0.1",
+  "description": "simple static version for Jugensommer",
+  "main": "app.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "static",
+    "html",
+    "node"
+  ],
+  "author": "Florian Edelmaier",
+  "license": "no",
+  "dependencies": {
+    "express": "^4.12.0"
+  }
+}
